@@ -23,10 +23,6 @@
 <a href="https://www.hackerrank.com/ratamranjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ratamranjith" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/ratamranjith/ratamranjith/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
@@ -43,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratamranjith&show_icons=true&locale=en&theme=radical" alt="ratamranjith" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratamranjith&" alt="ratamranjith" /></p>
+<p><img src="https://raw.githubusercontent.com/ratamranjith/ratamranjith/output/snake.svg" alt="Snake animation" /></p>
