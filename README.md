@@ -41,9 +41,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratamranjith&" alt="ratamranjith" /></p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ratamranjith/ratamranjith/output/snake.svg" alt="Snake animation" /></p>
-
-###
