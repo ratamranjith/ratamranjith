@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RANJITH KUMAR VENKATACHALAM</h1>
-<h3 align="center">Passionate WebDeveloper</h3>
+<h3 align="center">Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratamranjith&label=Profile%20views&color=0e75b6&style=flat" alt="ratamranjith" /> </p>
 
