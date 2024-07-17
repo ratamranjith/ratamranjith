@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm RANJITH KUMAR VENKATACHALAM</div>  
   
 
-- 🔭 I’m currently working on Fullstack  on Pet Clinic Web Application  
+- 🔭 I'm currently working on a full-stack Pet Clinic web application
   
 
 - 🌱 I’m currently learning FastAPI  
