@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I would love to change the world, but god won't provide me the source code of it 😁  
+- ⚡ Fun fact: I'd love to change the world, but apparently, God didn't open-source it! 😁  
   
 
 <br/>  
