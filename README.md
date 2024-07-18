@@ -94,7 +94,9 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ratamranjith&theme=transparent&border_radius=12.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>  
 
