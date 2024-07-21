@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on a full-stack Pet Clinic web application
   
 
-- 🌱 I’m currently learning FastAPI  
+- 🌱 I’m currently learning CyberSecurity
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
