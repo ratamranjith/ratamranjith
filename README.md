@@ -118,7 +118,7 @@ def universe_loop():
     while True:
         print("The universe is running... 🌌")
         while True: # The most incomprehensible thing about the universe is that it is comprehensible. (Albert Einstein)
-        time.sleep(1)  # Simulating an infinite loop
+          time.sleep(1)  # Simulating an infinite loop
 
 # (Uncomment to create a universe loop) 
 #universe_loop()
