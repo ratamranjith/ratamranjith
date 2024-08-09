@@ -15,6 +15,126 @@
 
 <br/>  
 
+```python
+# Sometimes, life is just a series of if-elif-else statements.
+mood = "hungry"
+
+if mood == "happy":
+    print("Keep smiling! 😊")
+elif mood == "sad":
+    print("Sending virtual hugs! 🤗")
+elif mood == "hungry":
+    print("Time to grab some snacks! 🍕")
+else:
+    print("Mood not found. Please try again later.")
+
+# Let’s face it, the bug is always in the last place you look.
+def find_bug():
+    print("Searching for the bug...")
+    print("Still searching...")
+    print("Aha! Found it in the last line of code!")
+
+find_bug()
+
+# Code to success: Ctrl + S
+def success():
+    print("Saving your progress... 💾")
+    print("Achievement unlocked: Success!")
+    return True
+
+success()
+
+# Me: "I’m going to start eating healthy."
+# Also me:
+import random
+snacks = ["chips", "chocolate", "cookies", "ice cream"]
+print(f"Today's healthy snack is: {random.choice(snacks)} 🍪")
+
+# To be is to do - Socrates
+# To do is to be - Sartre
+# Do be do be do - Sinatra
+def existential_crisis():
+    print("To code or not to code, that is the question.")
+    
+existential_crisis()
+
+# When in doubt, just add a print statement.
+def debugging_tactic():
+    print("This is fine... probably.")
+    # other debugging magic here
+    print("If you’re seeing this, the bug was caught. Or was it?")
+    
+debugging_tactic()
+
+# Coding without coffee is like a car without fuel.
+def need_coffee():
+    print("Error: CoffeeLevelTooLowException")
+    print("Refuel with ☕, then try again.")
+    
+need_coffee()
+
+# My code doesn’t always work, but when it does, I’m not sure why.
+def unexpected_success():
+    print("It works! But how...?")
+    
+unexpected_success()
+
+# Life tip: when nothing goes right, go left.
+import random
+directions = ["right", "left"]
+print(f"Life direction: Go {random.choice(directions)}!")
+
+# Warning: Reality.exe has stopped working.
+def reality_crash():
+    print("Reality.exe encountered an error and needs to close.")
+    print("Please restart your life and try again.")
+    
+reality_crash()
+
+# Being a programmer means I get to solve puzzles all day.
+def puzzle_mode():
+    print("Trying to solve the puzzle... 🔍")
+    print("Solution found: Turn it off and on again.")
+    
+puzzle_mode()
+
+# SyntaxError: Happiness not defined.
+try:
+    print(happiness)
+except NameError:
+    print("Oops! Happiness is undefined. Maybe it's time for a break?")
+
+# 2 + 2 = 5 (for extremely large values of 2)
+def questionable_math():
+    x = 2
+    y = 2
+    result = x + y + random.randint(0, 1)  # because why not
+    print(f"2 + 2 = {result}")
+    
+questionable_math()
+
+# The universe is just a program running on an infinite loop.
+def universe_loop():
+    while True:
+        print("The universe is running... 🌌")
+        while True: # The most incomprehensible thing about the universe is that it is comprehensible. (Albert Einstein)
+        time.sleep(1)  # Simulating an infinite loop
+
+# (Uncomment to create a universe loop) 
+#universe_loop()
+
+# Trust me, I'm an engineer. (But still, let’s debug this.)
+def trust_me():
+    print("Engineering solution in progress... ⏳")
+    print("Done! But let’s debug it anyway, just in case.")
+
+trust_me()    
+```
+
+
+
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
