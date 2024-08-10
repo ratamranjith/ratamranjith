@@ -15,6 +15,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ratamranjith&theme=juicyfresh)](https://github.com/ratamranjith/github-profile-trophy)
 
+<br/>
+
+|I can accept failure, everyone fails at something. But I can't accept not trying. - <b>Michael Jordan</b>|
+| --- |
 
 <br/>  
 
