@@ -1,8 +1,7 @@
 ### <div align="center">Hi 👋, I'm RANJITH KUMAR VENKATACHALAM</div>  
   
-
 - 🔭 I'm currently working on a full-stack Pet Clinic web application
-  
+ 
 
 - 🌱 I’m currently learning CyberSecurity
   
@@ -11,7 +10,11 @@
   
 
 - ⚡ Fun fact: I'd love to change the world, but apparently, God didn't open-source it! 😁  
-  
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ratamranjith&theme=juicyfresh)](https://github.com/ratamranjith/github-profile-trophy)
+
 
 <br/>  
 
