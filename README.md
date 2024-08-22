@@ -145,7 +145,7 @@ trust_me()
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=react,vite,bootstrap,html,javascript,css,sass,jquery,styledcomponents,materialui,tailwind,typescript,redux,reactivex,gatsby&perline=5)
+![My Skills](https://skillicons.dev/icons?i=react,vite,bootstrap,html,javascript,css,sass,jquery,styledcomponents,materialui,tailwind,typescript,redux,reactivex,gatsby&perline=9)
 
 </div>
 
@@ -155,28 +155,29 @@ trust_me()
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,linux,nginx,python,ruby,expressjs,git,flask,mysql,nextjs,powershell,&perline=5)
+![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,linux,nginx,python,ruby,expressjs,git,flask,mysql,nextjs,powershell,&perline=9)
 
 </div>
 </td></tr>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 ### Tools & IDE
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,atom,vscode,codepen,jenkins,pycharm,sublime,replit,&perline=5)
+![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,atom,vscode,codepen,jenkins,pycharm,sublime,replit,&perline=9)
 
 </div>
 </td>
-<td>
+<td valign="top" width="50%">
 
+    
 ### IOT & Cloud
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=arduino,aws,docker,gcp,netlify,vercel&perline=5)
+![My Skills](https://skillicons.dev/icons?i=arduino,aws,docker,gcp,netlify,vercel&perline=9)
 
 </div>
 </td>
