@@ -155,7 +155,7 @@ trust_me()
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,linux,nginx,python,ruby,expressjs,git,flask,mysql,nextjs,powershell,&perline=5)
+![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,linux,nginx,python,ruby,expressjs,git,flask,mysql,nextjs,powershell,webpack,&perline=5)
 
 </div>
 </td></tr>
