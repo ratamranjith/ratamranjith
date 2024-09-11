@@ -64,7 +64,7 @@
 
 ---
 
-### 🕔 5:00 PM - End of the Day
+### End of the Day
 - Commit code: “Final fix” (it's not).
 - Push to production: Site goes down.
 - Revert commit: “Last time, I swear.”
@@ -74,7 +74,7 @@
 
 ---
 
-### ⚡ Evening Bonus Round:
+### ⚡Bonus Round:
 - Stare at code: It stares back.
 - Debugging at midnight: When the true bugs reveal themselves.
 - Dreams: Full of semicolons, undefined variables, and unresolved promises.
