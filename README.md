@@ -19,121 +19,72 @@
 
 <br/>
 
-```python
-# Sometimes, life is just a series of if-elif-else statements.
-mood = "hungry"
+# My Daily Routine
+👨‍💻 **Routine Status: Working Hard, or Hardly Working?**
 
-if mood == "happy":
-    print("Keep smiling! 😊")
-elif mood == "sad":
-    print("Sending virtual hugs! 🤗")
-elif mood == "hungry":
-    print("Time to grab some snacks! 🍕")
-else:
-    print("Mood not found. Please try again later.")
 
-# Let’s face it, the bug is always in the last place you look.
-def find_bug():
-    print("Searching for the bug...")
-    print("Still searching...")
-    print("Aha! Found it in the last line of code!")
+### ⏰ The Morning Struggle
+- Wake up: The first bug to fix today.
+- Coffee: Applied. Brain function loading... 10%... 30%... coffee.exe crashed. Restarting...
+- Open laptop: First battle with the keyboard warriors (aka: typos).
+- Code review: Read old code. Wonder who wrote it. Realize it was me. Panic.
 
-find_bug()
+---
 
-# Code to success: Ctrl + S
-def success():
-    print("Saving your progress... 💾")
-    print("Achievement unlocked: Success!")
-    return True
+### 🧑‍💻 Debugging Time
+- Start coding: Mission - make the button red.
+- Button turns blue: Close laptop, walk away.
+- Come back: Button is still blue. Maybe it's a feature? Convincing myself it's "creative design."
+- Google: “How to make a button red in CSS?”
+- Google again: “How to fix broken CSS?”
+- Stack Overflow: Distance Relative.
+- Bug Fixed: There is a typo. OMG
 
-success()
+---
 
-# Me: "I’m going to start eating healthy."
-# Also me:
-import random
-snacks = ["chips", "chocolate", "cookies", "ice cream"]
-print(f"Today's healthy snack is: {random.choice(snacks)} 🍪")
+### 🕛 Lunch Break
+- Plan: Take a 30-minute break.
+- Reality: Spend an hour tweaking a single div.
+- Actual break: Scroll through memes about coding. Relatable.
 
-# To be is to do - Socrates
-# To do is to be - Sartre
-# Do be do be do - Sinatra
-def existential_crisis():
-    print("To code or not to code, that is the question.")
+---
 
-existential_crisis()
+### 🕑 Afternoon Coding Sprint 💨
+- Breakthrough moment: I did it! The button is red!
+- Realize: Broke the entire layout. Everything is misaligned.
+- Google: “How to align everything.”
+- Realize again: Misread the docs for the 100th time.
 
-# When in doubt, just add a print statement.
-def debugging_tactic():
-    print("This is fine... probably.")
-    # other debugging magic here
-    print("If you’re seeing this, the bug was caught. Or was it?")
+---
 
-debugging_tactic()
+### 🛠️ The Feature Spiral
+- Add new feature: Expect to finish in 10 minutes.
+- Two hours later: Feature done, but 3 new bugs are born.
+- Wonder: “Is this really my job? Am I a bug breeder?”
 
-# Coding without coffee is like a car without fuel.
-def need_coffee():
-    print("Error: CoffeeLevelTooLowException")
-    print("Refuel with ☕, then try again.")
+---
 
-need_coffee()
+### 🕔 5:00 PM - End of the Day
+- Commit code: “Final fix” (it's not).
+- Push to production: Site goes down.
+- Revert commit: “Last time, I swear.”
+- Realize: Another all-nighter ahead.
+- Final thoughts: “Tomorrow will be better!”  
+(It's a lie we tell ourselves every day.)
 
-# My code doesn’t always work, but when it does, I’m not sure why.
-def unexpected_success():
-    print("It works! But how...?")
+---
 
-unexpected_success()
+### ⚡ Evening Bonus Round:
+- Stare at code: It stares back.
+- Debugging at midnight: When the true bugs reveal themselves.
+- Dreams: Full of semicolons, undefined variables, and unresolved promises.
 
-# Life tip: when nothing goes right, go left.
-import random
-directions = ["right", "left"]
-print(f"Life direction: Go {random.choice(directions)}!")
+---
 
-# Warning: Reality.exe has stopped working.
-def reality_crash():
-    print("Reality.exe encountered an error and needs to close.")
-    print("Please restart your life and try again.")
+### 🛌 **Sleep Status:** Still pending…  
 
-reality_crash()
 
-# Being a programmer means I get to solve puzzles all day.
-def puzzle_mode():
-    print("Trying to solve the puzzle... 🔍")
-    print("Solution found: Turn it off and on again.")
 
-puzzle_mode()
-
-# SyntaxError: Happiness not defined.
-try:
-    print(happiness)
-except NameError:
-    print("Oops! Happiness is undefined. Maybe it's time for a break?")
-
-# 2 + 2 = 5 (for extremely large values of 2)
-def questionable_math():
-    x = 2
-    y = 2
-    result = x + y + random.randint(0, 1)  # because why not
-    print(f"2 + 2 = {result}")
-
-questionable_math()
-
-# The universe is just a program running on an infinite loop.
-def universe_loop():
-    while True:
-        print("The universe is running... 🌌")
-        while True: # The most incomprehensible thing about the universe is that it is comprehensible. (Albert Einstein)
-          time.sleep(1)  # Simulating an infinite loop
-
-# (Uncomment to create a universe loop)
-#universe_loop()
-
-# Trust me, I'm an engineer. (But still, let’s debug this.)
-def trust_me():
-    print("Engineering solution in progress... ⏳")
-    print("Done! But let’s debug it anyway, just in case.")
-
-trust_me()
-```
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ratamranjith)
 
