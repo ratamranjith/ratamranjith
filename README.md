@@ -176,7 +176,7 @@
 
 ## Github Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ratamranjith&theme=transparent&border_radius=12.8&date_format=M%20j%5B%2C%20Y%5D&fire=EB4C0E&ring=15EB00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ratamranjith&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <br/>
 
 ## Github Stats
