@@ -176,14 +176,13 @@
 
 ## Github Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ratamranjith&theme=whatsapp-light2&border_radius=7.1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ratamranjith&theme=meta-light)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratamranjith&hide_border=true&layout=compact" align="right" />
 <br/>
 
 ## Github Stats
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ratamranjith&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ratamranjith&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratamranjith&hide_border=true&layout=compact" align="left" />
 
 <br/>
 
