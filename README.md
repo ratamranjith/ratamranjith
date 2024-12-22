@@ -17,6 +17,9 @@
 | I can accept failure, everyone fails at something. But I can't accept not trying. - <b>Michael Jordan</b> |
 | --------------------------------------------------------------------------------------------------------- |
 
+| "Walking on water and developing software from a specification are easy if both are frozen." - <b>Edward V Berard</b> |
+| --------------------------------------------------------------------------------------------------------------------- |
+
 <br/>
 
 # My Daily Routine
