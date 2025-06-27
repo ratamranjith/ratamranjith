@@ -2,8 +2,6 @@
 
 - 🔭 I'm currently working on a full-stack Pet Clinic web application
 
-- 🌱 I’m currently learning CyberSecurity
-
 - ❓ Ask me about anything related to MERN stack and related technologies
 
 - ⚡ Fun fact: I'd love to change the world, but apparently, God didn't open-source it! 😁
