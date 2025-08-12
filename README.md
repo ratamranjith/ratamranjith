@@ -177,7 +177,8 @@
 
 ## Github Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ratamranjith&theme=meta-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ratamranjith&theme=meta-light)](https://git.io/streak-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratamranjith&hide_border=true&layout=compact" align="right" />
 <br/>
 
