@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋, I'm RANJITH KUMAR VENKATACHALAM</div>
 
-- 🔭 I'm currently working on a full-stack Pet Clinic web application
+- 🔭 I'm currently working on a full-stack Badminton League and Question Governance web application
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
