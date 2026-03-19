@@ -8,7 +8,7 @@
 
 <br/>
 
-[!(https://github-trophies.vercel.app/?username=ratamranjith)]
+![trophy](https://github-profile-trophy.vercel.app/?username=ratamranjith)
 <br/>
 
 | I can accept failure, everyone fails at something. But I can't accept not trying. - <b>Michael Jordan</b> |
