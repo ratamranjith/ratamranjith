@@ -1,8 +1,8 @@
 ### <div align="center">Hi 👋, I'm RANJITH KUMAR VENKATACHALAM</div>
 
-- 🔭 I'm currently working on a full-stack Badminton League and Question Governance web application
+- 🔭 I'm currently working on a Personal AI assistant
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to MERN stack and AI related technologies
 
 - ⚡ Fun fact: I'd love to change the world, but apparently, God didn't open-source it! 😁
 
